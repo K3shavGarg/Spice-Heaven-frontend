@@ -21,9 +21,9 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="" />
-              <h3>Kartik Garg</h3>
+              <h3>Keshav Garg</h3>
             </div>
-            <p>I am Kartik Garg founder of Spice Heaven. Indulge in the Flavorful Paradise of Spice Heaven!</p>
+            <p>I am Keshav Garg founder of Spice Heaven. Indulge in the Flavorful Paradise of Spice Heaven!</p>
           </article>
         </div>
       </motion.main>
